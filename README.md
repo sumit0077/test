@@ -1,12 +1,25 @@
 <h2><b>IPL Fan Poll Page </b></h2>
  <br>
 <b>INTRODUCTION:<b/><br>
-<p>The IPL FanPoll page is a platform for cricket fans to engage and participate in the Indian Premier League (IPL) by voting on various polls and surveys related to the league. These polls cover diverse topics, including:
-Player performance: Who will be the Player of the Tournament? Which batsman will score the most runs? Which bowler will take the most wickets?
-Team performance: Which team will win the IPL trophy? Which team will make it to the playoffs?
-Auction picks: Which players will be the most expensive buys at the auction? Which teams need specific players the most?
-Other cricket-related topics: What is your favorite IPL moment? Who is your favorite IPL player of all time?.
-<b>TECHNOLOGIES:</b><br></p>
+<p>The IPL FanPoll page is a platform for cricket fans to engage and participate in the Indian Premier League (IPL) by voting on various polls and surveys related to the league. These polls cover diverse topics, including:<ul>
+ <li>
+  Player performance: Who will be the Player of the Tournament?
+ </li>
+  <li>
+    Which batsman will score the most runs? Which bowler will take the most wickets?
+  </li>
+  <li>
+   Team performance: Which team will win the IPL trophy? Which team will make it to the playoffs?
+  </li>
+ <li>
+  Auction picks: Which players will be the most expensive buys at the auction? Which teams need specific players the most?
+ </li>
+ <li>
+  Other cricket-related topics: What is your favorite IPL moment? Who is your favorite IPL player of all time?.
+ </li>
+</ul>
+</p>
+<b>TECHNOLOGIES:</b><br>
 <b>1.HTML</b><br>
 <p>HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.</p> <br>
 <b>CSS<br>
