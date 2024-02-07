@@ -21,7 +21,7 @@
 </p>
 <b>TECHNOLOGIES:</b><br>
 <b>1.HTML</b><br>
- <img src="![image](https://github.com/sumit0077/test/assets/53577148/a2dc35a0-df3b-4e9a-b4e6-c9391163e5c8)
+![Alt Text](https://banner2.cleanpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg)
 " alt="Alt text" width="1000"/>
 <p>HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.</p> <br>
 <b>CSS<br>
