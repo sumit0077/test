@@ -1,8 +1,9 @@
-##IPL Fan Poll Page
-##INTRODUCTION:
-##TECHNOLOGIES:
-<b>1.HTML
-<p>HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.</p> </b>
+#IPL Fan Poll Page
+#INTRODUCTION:
+This webpage is about the upcoming IPL Player Auction. It discusses which players fans are excited to see and which teams need the most reinforcement.
+#TECHNOLOGIES:
+<b>1.HTML</b>
+<p>HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.</p> 
 <b>CSS
 Applied for styling and layout with different CSS properties </b>
 <b>TailWind Css</b>
