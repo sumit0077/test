@@ -8,9 +8,9 @@ Applied for styling and layout with different CSS properties </b>
 <b>TailWind Css</b>
 <p>FrameWork of css</p>
 ## Accessing the Help Page
-<img src="./1.png" alt="Alt text" width="100"/>
-<img src="./2.png" alt="Alt text" width="100"/>
-<img src="./3.png" alt="Alt text" width="100"/>
+<img src="./1.png" alt="Alt text" width="1000"/>
+<img src="./2.png" alt="Alt text" width="1000"/>
+<img src="./3.png" alt="Alt text" width="1000"/>
 ## <span style="color:#29c4f6">CHALLENGES 
 
 #### <span style="color:#ef00ff">1. CONSISTENCY
