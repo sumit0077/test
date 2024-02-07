@@ -12,17 +12,16 @@ The IPL FanPoll page is a platform for cricket fans to engage and participate in
 
 **TECHNOLOGIES:**
 
-1. HTML
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
 
+1. HTML
 HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.
 
 2. CSS
-
 Applied for styling and layout with different CSS properties.
 
 3. TailWind CSS
-
 Framework of CSS.
 
 ## Accessing the Help Page
