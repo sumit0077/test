@@ -1,14 +1,14 @@
-<b>IPL Fan Poll Page<b/>
-<b>INTRODUCTION:<b/>
-This webpage is about the upcoming IPL Player Auction. It discusses which players fans are excited to see and which teams need the most reinforcement.
-<b>TECHNOLOGIES:</b>
-<b>1.HTML</b>
-<p>HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.</p> 
-<b>CSS
-Applied for styling and layout with different CSS properties </b>
-<b>TailWind Css</b>
-<p>FrameWork of css</p>
-## Accessing the Help Page
+<h1><b>IPL Fan Poll Page<b/><h1><br>
+<b>INTRODUCTION:<b/><br>
+This webpage is about the upcoming IPL Player Auction. It discusses which players fans are excited to see and which teams need the most reinforcement.<br>
+<b>TECHNOLOGIES:</b><br>
+<b>1.HTML</b><br>
+<p>HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.</p> <br>
+<b>CSS<br>
+Applied for styling and layout with different CSS properties </b><br>
+<b>TailWind Css</b><br>
+<p>FrameWork of css</p><br>
+<h2>Accessing the Help Page</h2>
 <img src="./1.png" alt="Alt text" width="1000"/>
 <img src="./2.png" alt="Alt text" width="1000"/>
 <img src="./3.png" alt="Alt text" width="1000"/>
