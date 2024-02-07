@@ -1,4 +1,5 @@
-<h1><b>IPL Fan Poll Page<b/><h1><br>
+<h2><b>IPL Fan Poll Page </b></h2>
+ <br>
 <b>INTRODUCTION:<b/><br>
 This webpage is about the upcoming IPL Player Auction. It discusses which players fans are excited to see and which teams need the most reinforcement.<br>
 <b>TECHNOLOGIES:</b><br>
