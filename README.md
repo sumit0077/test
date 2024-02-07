@@ -1,7 +1,7 @@
-#IPL Fan Poll Page
-#INTRODUCTION:
+<b>IPL Fan Poll Page<b/>
+<b>INTRODUCTION:<b/>
 This webpage is about the upcoming IPL Player Auction. It discusses which players fans are excited to see and which teams need the most reinforcement.
-#TECHNOLOGIES:
+<b>TECHNOLOGIES:</b>
 <b>1.HTML</b>
 <p>HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.</p> 
 <b>CSS
