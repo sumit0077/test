@@ -13,8 +13,7 @@ The IPL FanPoll page is a platform for cricket fans to engage and participate in
 **TECHNOLOGIES:**
 
 1. HTML
-![HTML Icon](https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
 
 HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.
 
