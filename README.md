@@ -1,7 +1,12 @@
 <h2><b>IPL Fan Poll Page </b></h2>
  <br>
 <b>INTRODUCTION:<b/><br>
-This webpage is about the upcoming IPL Player Auction. It discusses which players fans are excited to see and which teams need the most reinforcement.<br>
+The IPL FanPoll page is a platform for cricket fans to engage and participate in the Indian Premier League (IPL) by voting on various polls and surveys related to the league. These polls cover diverse topics, including:
+
+    Player performance: Who will be the Player of the Tournament? Which batsman will score the most runs? Which bowler will take the most wickets?
+    Team performance: Which team will win the IPL trophy? Which team will make it to the playoffs?
+    Auction picks: Which players will be the most expensive buys at the auction? Which teams need specific players the most?
+    Other cricket-related topics: What is your favorite IPL moment? Who is your favorite IPL player of all time?.<br>
 <b>TECHNOLOGIES:</b><br>
 <b>1.HTML</b><br>
 <p>HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.</p> <br>
@@ -32,7 +37,7 @@ Applied for styling and layout with different CSS properties </b><br>
 <ul>Rigorous testing and debugging are necessary to identify and fix issues promptly </ul>
 
 ## <span style="color:#29c4f6">CONCLUSION
-Thank you for exploring the Adidas Help page and the Men's page in this repository. Each page is designed responsively, ensuring a seamless experience across devices. Built with HTML and CSS, these pages deliver intuitive and informative content. 
+Thank you for exploring the IPL fanPoll page in this repository, page is designed responsively, ensuring a seamless experience across devices. Built with HTML and CSS, these pages deliver intuitive and informative content. 
 
 #### <span style="color:#ef00ff">Achievement:
 
