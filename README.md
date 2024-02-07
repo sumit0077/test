@@ -21,8 +21,7 @@
 </p>
 <b>TECHNOLOGIES:</b><br>
 <b>1.HTML</b><br>
-![Alt Text](https://banner2.cleanpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg)
-" alt="Alt text" width="1000"/>
+![HTML Icon](https://banner2.cleanpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg)
 <p>HTML is a programming language which is used for structuring web Pages including headers, navigation bars, content sections, and footers.</p> <br>
 <b>CSS<br>
 Applied for styling and layout with different CSS properties </b><br>
